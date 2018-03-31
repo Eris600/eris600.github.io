@@ -1,0 +1,30 @@
+body {
+    color: #000;
+    background-color: #FFF;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding-top: 40px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 40px;
+    margin: auto;
+    width: auto;
+    height: auto;
+    overflow: auto;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-weight: bolder;
+    text-shadow: 10px 10px 5px #E5E5E5;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.box {
+    padding: 10px;
+    box-shadow: 10px 10px 5px #E5E5E5;
+    background: #CCC;
+}
